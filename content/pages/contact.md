@@ -5,7 +5,14 @@ sections:
   - content: >
       ¡Hola! Muchas gracias por tu interés en trabajar juntos. Puedes completar
       el siguiente formulario de contacto o contactarme por estos medios:
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
     type: section_hero
     section_id: social-contact
   - section_id: contact-form
