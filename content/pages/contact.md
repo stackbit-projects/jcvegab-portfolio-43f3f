@@ -25,7 +25,7 @@ sections:
         name: subject
         label: Asunto
         options:
-          - 'Desarrollo web (website, e-commerce)'
+          - 'Desarrollo web (website, e-commerce, etc)'
           - null
           - Otros
         default_value: Selecciona aquí
