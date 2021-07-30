@@ -14,7 +14,7 @@ sections:
         no_follow: false
         type: action
       - label: Email
-        url: '#'
+        url: 'mailto:jcvb0206@gmail.com'
         style: link
         icon: dribbble
         new_window: false
