@@ -13,13 +13,6 @@ sections:
         new_window: true
         no_follow: false
         type: action
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
     type: section_hero
     section_id: social-contact
   - section_id: contact-form
