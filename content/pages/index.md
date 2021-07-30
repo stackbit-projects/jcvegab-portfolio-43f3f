@@ -11,6 +11,8 @@ sections:
       Disfruto trabajando en la planificación y el desarrollo de proyectos para
       crear nuevas experiencias para los usuarios.
 
+
+
       Habilidades / Intereses: Ruby on Rails, Vue, React, Javascript, HTML, CSS,
       PostgreSQL, Git, GitHub
     actions: []
