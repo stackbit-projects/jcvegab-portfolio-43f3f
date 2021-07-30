@@ -26,7 +26,7 @@ sections:
         label: Asunto
         options:
           - 'Desarrollo web (website, e-commerce, etc)'
-          - T
+          - null
           - Oportunidad laboral
           - Otros
         default_value: Selecciona aquí
