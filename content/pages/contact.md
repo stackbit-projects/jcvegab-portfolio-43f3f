@@ -25,7 +25,7 @@ sections:
         name: subject
         label: Asunto
         options:
-          - C
+          - null
           - Desarrollo web
           - Otros
         default_value: Selecciona aquí
