@@ -4,10 +4,10 @@ hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
-    content: >
-      ¡Hola! Muchas gracias por tu interés en trabajar juntos. Completa el
-      siguiente formulario de contacto o envíame un correo electrónico a
-      [jcvb0206@gmail.com](mailto:example@example.com).
+    content: >+
+      ¡Hola! Muchas gracias por tu interés en trabajar juntos. Puedes completar
+      el siguiente formulario de contacto o contactarme por estos medios:
+
     form_id: contactForm
     form_action: /thank-you
     form_fields:
