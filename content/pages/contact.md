@@ -2,26 +2,6 @@
 title: Contacto
 hide_title: false
 sections:
-  - content: >
-      ¡Hola! Muchas gracias por tu interés en trabajar juntos. Puedes completar
-      el siguiente formulario de contacto o contactarme por estos medios:
-    actions:
-      - label: Email
-        url: 'http//mailto:jcvb0206@gmail.com'
-        style: button
-        icon: dribbble
-        new_window: true
-        no_follow: false
-        type: action
-      - label: Whatsapp
-        url: 'https://wa.link/lg1yhf'
-        style: button
-        icon: dribbble
-        new_window: true
-        no_follow: false
-        type: action
-    type: section_hero
-    section_id: social-contact
   - section_id: contact-form
     type: section_form
     form_id: contactForm
