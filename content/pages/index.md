@@ -4,6 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
+    avatar: 
     title: Joseph Vega Blacido
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
