@@ -27,7 +27,7 @@ sections:
         options:
           - 'Desarrollo web (website, e-commerce, etc)'
           - null
-          - lorem-ipsum
+          - Oportunidad laboral
           - Otros
         default_value: Selecciona aquí
         is_required: true
