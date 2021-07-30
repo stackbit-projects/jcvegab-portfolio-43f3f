@@ -37,7 +37,7 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          Acepto el almacenamiento de mi información enviada para que puedan ser
+          Acepto el almacenamiento de mi información enviada para ser
           contactados.
     submit_label: Enviar mensaje
 seo:
