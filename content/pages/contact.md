@@ -26,7 +26,7 @@ sections:
         label: Asunto
         options:
           - 'Desarrollo web (website, e-commerce, etc)'
-          - null
+          - C
           - Otros
         default_value: Selecciona aquí
         is_required: true
