@@ -15,7 +15,7 @@ export default class SectionHero extends React.Component {
 
         return (
             <section id={sectionId} className="block block-hero outer">
-                <img alt="Joseph Vega Avatar" href={avatar}/>
+                <img alt={avatar} href={avatar}/>
                 <div className="inner">
                     {title && (
                         <div className="block-header inner-sm">
