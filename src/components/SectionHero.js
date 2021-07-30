@@ -9,6 +9,7 @@ export default class SectionHero extends React.Component {
         const section = _.get(this.props, 'section');
         const sectionId = _.get(section, 'section_id');
         const title = _.get(section, 'title');
+        const avatar = _.get(section, 'avatar');
         const content = _.get(section, 'content');
         const actions = _.get(section, 'actions');
 
