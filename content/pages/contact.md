@@ -8,7 +8,7 @@ sections:
     actions:
       - label: Whatsapp
         url: '#'
-        style: link
+        style: icon
         icon: facebook
         new_window: true
         no_follow: false
