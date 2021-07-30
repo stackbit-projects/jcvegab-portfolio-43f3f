@@ -48,17 +48,17 @@
                 "type": "action"
             },
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "icon",
-                "icon": "twitter",
-                "new_window": true
-            },
-            {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/in/joseph-vegab",
                 "style": "icon",
                 "icon": "linkedin",
+                "new_window": true
+            },
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/",
+                "style": "icon",
+                "icon": "twitter",
                 "new_window": true
             },
             {
