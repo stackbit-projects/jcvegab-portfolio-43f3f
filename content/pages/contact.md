@@ -26,7 +26,7 @@ sections:
         label: Asunto
         options:
           - null
-          - Sponsorship
+          - 'Desarrollo de '
           - Otros
         default_value: Selecciona aquí
         is_required: true
