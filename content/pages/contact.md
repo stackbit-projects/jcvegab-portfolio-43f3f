@@ -15,6 +15,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_hero
+    section_id: social-med
   - section_id: contact-form
     type: section_form
     content: >+
