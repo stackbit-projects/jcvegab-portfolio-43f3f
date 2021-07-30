@@ -42,6 +42,13 @@ sections:
           contactado.
         is_required: true
     submit_label: Enviar mensaje
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    is_numbered: false
+    grid_items: []
+    type: section_grid
 seo:
   title: Contact
   description: This is the contact page
