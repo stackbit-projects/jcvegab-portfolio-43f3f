@@ -12,9 +12,8 @@ sections:
       crear nuevas experiencias para los usuarios.
 
 
-
-      Habilidades / Intereses: Ruby on Rails, Vue, React, Javascript, HTML, CSS,
-      PostgreSQL, Git, GitHub
+      **Habilidades / Intereses:** Ruby on Rails, Vue, React, Javascript, HTML,
+      CSS, PostgreSQL, Git, GitHub
     actions: []
   - section_id: latest-projects
     type: section_portfolio
