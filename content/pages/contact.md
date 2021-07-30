@@ -17,7 +17,7 @@ sections:
         url: 'mailto:jcvb0206@gmail.com'
         style: button
         icon: dribbble
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
     type: section_hero
