@@ -27,8 +27,8 @@ sections:
         options:
           - 'Desarrollo web (website, e-commerce, etc)'
           - null
-          - Otros
           - lorem-ipsum
+          - Otros
         default_value: Selecciona aquí
         is_required: true
       - input_type: textarea
