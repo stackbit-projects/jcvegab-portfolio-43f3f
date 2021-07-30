@@ -9,7 +9,7 @@ sections:
       - label: Whatsapp
         url: '#'
         style: icon
-        icon: pinterest
+        icon: dribbble
         new_window: true
         no_follow: false
         type: action
