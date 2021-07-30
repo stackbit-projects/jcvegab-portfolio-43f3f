@@ -14,7 +14,7 @@ export default class SectionHero extends React.Component {
         const actions = _.get(section, 'actions');
 
         return (
-            <section id={sectionId} className="block block-hero outer">
+            <section id={sectionId} className="block block-hero outer avatar-hero">
                 <img alt="Joseph Vega Avatar" src={avatar}/>
                 <div className="inner">
                     {title && (
