@@ -8,7 +8,7 @@ sections:
     actions:
       - label: Whatsapp
         url: '#'
-        style: icon
+        style: button
         icon: dribbble
         new_window: true
         no_follow: false
