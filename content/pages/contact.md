@@ -7,7 +7,7 @@ sections:
       el siguiente formulario de contacto o contactarme por estos medios:
     actions:
       - label: Email
-        url: 'mailto:jcvb0206@gmail.com'
+        url: 'http//mailto:jcvb0206@gmail.com'
         style: button
         icon: dribbble
         new_window: true
