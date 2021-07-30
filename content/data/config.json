@@ -62,7 +62,7 @@
             {
                 "label": "Github",
                 "url": "https://www.github.com/jcvegab",
-                "style": "link",
+                "style": "icon",
                 "icon": "github",
                 "new_window": true,
                 "no_follow": false,
