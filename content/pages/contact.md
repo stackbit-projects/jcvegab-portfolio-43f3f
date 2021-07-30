@@ -6,7 +6,7 @@ sections:
       ¡Hola! Muchas gracias por tu interés en trabajar juntos. Puedes completar
       el siguiente formulario de contacto o contactarme por estos medios:
     actions:
-      - label: lorem-ipsum
+      - label: Whatsapp
         url: '#'
         style: link
         icon: facebook
