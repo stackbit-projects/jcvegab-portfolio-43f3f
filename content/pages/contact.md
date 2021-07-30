@@ -9,7 +9,7 @@ sections:
       - label: lorem-ipsum
         url: '#'
         style: link
-        icon: dribbble
+        icon: facebook
         new_window: true
         no_follow: false
         type: action
