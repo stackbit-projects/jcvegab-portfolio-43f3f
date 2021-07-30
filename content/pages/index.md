@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    avatar: 
+    avatar: https://avatars.githubusercontent.com/u/11130613?s=400&u=a5667dbdba42332a2a088e4a7afb73be2eb3f58b&v=4
     title: Joseph Vega Blacido
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
