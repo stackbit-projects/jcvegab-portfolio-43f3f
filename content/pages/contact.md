@@ -6,15 +6,15 @@ sections:
       ¡Hola! Muchas gracias por tu interés en trabajar juntos. Puedes completar
       el siguiente formulario de contacto o contactarme por estos medios:
     actions:
-      - label: Whatsapp
-        url: 'https://wa.link/lg1yhf'
+      - label: Email
+        url: 'mailto:jcvb0206@gmail.com'
         style: button
         icon: dribbble
         new_window: true
         no_follow: false
         type: action
-      - label: Email
-        url: 'mailto:jcvb0206@gmail.com'
+      - label: Whatsapp
+        url: 'https://wa.link/lg1yhf'
         style: button
         icon: dribbble
         new_window: true
