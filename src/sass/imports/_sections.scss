@@ -266,4 +266,7 @@
 .avatar-hero {
     display: flex;
     gap: 5%;
+    img {
+        border-radius: 50%;
+    }
 }
