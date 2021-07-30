@@ -7,7 +7,7 @@ sections:
       el siguiente formulario de contacto o contactarme por estos medios:
     actions:
       - label: Whatsapp
-        url: '#'
+        url: 'https://wa.link/lg1yhf'
         style: button
         icon: dribbble
         new_window: true
