@@ -49,7 +49,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: ¿Qué hay de nuevo?
-    subtitle: Aquí veras los artículos más recientes
+    subtitle: 'Aquí veras los artículos más recientes '
     posts_number: 3
     col_number: three
     actions:
