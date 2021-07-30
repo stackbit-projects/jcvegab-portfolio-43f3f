@@ -4,11 +4,15 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    avatar: https://avatars.githubusercontent.com/u/11130613?s=400&u=a5667dbdba42332a2a088e4a7afb73be2eb3f58b&v=4
+    avatar: >-
+      https://avatars.githubusercontent.com/u/11130613?s=400&u=a5667dbdba42332a2a088e4a7afb73be2eb3f58b&v=4
     title: Joseph Vega Blacido
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Disfruto trabajando en la planificación y el desarrollo de proyectos para
+      crear nuevas experiencias para los usuarios.
+
+      Habilidades / Intereses: Ruby on Rails, Vue, React, Javascript, HTML, CSS,
+      PostgreSQL, Git, GitHub
     actions: []
   - section_id: latest-projects
     type: section_portfolio
