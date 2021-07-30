@@ -38,7 +38,7 @@ sections:
         name: consent
         label: >-
           Acepto el almacenamiento de mi información enviada para ser
-          contactados.
+          contactado.
     submit_label: Enviar mensaje
 seo:
   title: Contact
