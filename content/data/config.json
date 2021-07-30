@@ -39,6 +39,15 @@
         "has_social": true,
         "social_links": [
             {
+                "label": "Github",
+                "url": "https://www.github.com/jcvegab",
+                "style": "icon",
+                "icon": "github",
+                "new_window": true,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Twitter",
                 "url": "https://twitter.com/",
                 "style": "icon",
@@ -58,15 +67,6 @@
                 "style": "icon",
                 "icon": "instagram",
                 "new_window": true
-            },
-            {
-                "label": "Github",
-                "url": "https://www.github.com/jcvegab",
-                "style": "icon",
-                "icon": "github",
-                "new_window": true,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },
