@@ -38,7 +38,7 @@ sections:
           contactado.
         is_required: true
     submit_label: Enviar mensaje
-    subtitle: hola
+    content: hola
 seo:
   title: Contact
   description: This is the contact page
