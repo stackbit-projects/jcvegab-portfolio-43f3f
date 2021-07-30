@@ -39,6 +39,7 @@ sections:
         label: >-
           Acepto el almacenamiento de la información enviada para ser
           contactado.
+        is_required: true
     submit_label: Enviar mensaje
 seo:
   title: Contact
