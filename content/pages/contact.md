@@ -29,6 +29,7 @@ sections:
           - Sponsorship
           - Other
         default_value: Selecciona aquí
+        is_required: true
       - input_type: textarea
         name: message
         label: Mensaje
