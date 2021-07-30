@@ -25,7 +25,7 @@ sections:
         name: subject
         label: Asunto
         options:
-          - Error on the site
+          - null
           - Sponsorship
           - Other
         default_value: Selecciona aquí
