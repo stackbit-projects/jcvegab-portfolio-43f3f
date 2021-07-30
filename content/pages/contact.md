@@ -28,7 +28,7 @@ sections:
           - Error on the site
           - Sponsorship
           - Other
-        default_value: 'Selecciona '
+        default_value: Selecciona uno
       - input_type: textarea
         name: message
         label: Mensaje
