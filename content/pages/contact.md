@@ -2,17 +2,9 @@
 title: Contacto
 hide_title: false
 sections:
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+  - content: >
+      ¡Hola! Muchas gracias por tu interés en trabajar juntos. Puedes completar
+      el siguiente formulario de contacto o contactarme por estos medios:
     actions: []
     type: section_hero
     section_id: social-contact
