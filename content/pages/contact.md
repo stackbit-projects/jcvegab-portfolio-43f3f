@@ -27,7 +27,7 @@ sections:
         options:
           - null
           - Sponsorship
-          - Other
+          - Otros
         default_value: Selecciona aquí
         is_required: true
       - input_type: textarea
