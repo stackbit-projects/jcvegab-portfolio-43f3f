@@ -58,6 +58,7 @@ sections:
           contactado.
         is_required: true
     submit_label: Enviar mensaje
+    subtitle: sdsd
 seo:
   title: Contact
   description: This is the contact page
