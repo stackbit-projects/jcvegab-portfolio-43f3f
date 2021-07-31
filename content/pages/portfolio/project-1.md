@@ -34,7 +34,7 @@ seo:
       relativeUrl: true
 layout: project
 ---
-Para el desarrollo de Tweetable se tuvo medio día para crear una versión más simple y modificada de Twitter. Esta versión consta de 3 entidades como Usuario, Tweet y comentario, así mismo a cada entidad se le añadió una capa de validaciones.Gemas usadas:
+Para el desarrollo de Tweetable, una aplicación con los elementos básicos de Twitter, se tuvo 3 días para crear un producto mínimo viable (MVP) en un equipo de desarrollo conformado por 3 personas. Esta versión consta de 2 entidades como Usuario y Tweet, así mismo a cada entidad se le añadió una capa de validaciones.
 
 ## Gemas usadas
 
@@ -42,4 +42,8 @@ Para el desarrollo de Tweetable se tuvo medio día para crear una versión más 
 
 *   [**Pundit**](https://github.com/varvet/pundit) para la autorización de permisos y acceso de los usuarios.
 
-Puedes ver el código fuente en mi repositorio de Github: [Tweetable (Twitter clone)](https://github.com/jcvegab/tweetable-individual)
+*   ****[**Omniauth-Github**](https://github.com/omniauth/omniauth-github)** **para el registro mediante cuentas Github (Deshabilitado el callback).
+
+*   [**Omniauth-Google**](https://github.com/zquestz/omniauth-google-oauth2)** **para el registro mediante cuentas Google (Deshabilitado el callback).
+
+Puedes ver el código fuente en mi repositorio de Github: [Tweetable (Twitter clone)](https://github.com/jcvegab/tweetable-team-project)
