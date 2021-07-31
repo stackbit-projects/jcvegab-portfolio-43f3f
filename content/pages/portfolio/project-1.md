@@ -2,7 +2,7 @@
 title: Tweetable
 subtitle: Clon de Twitter en Ruby on Rails
 date: '2021-01-13'
-thumb_image: /images/Sin título.png
+thumb_image: /images/unique-paprika.png
 thumb_image_alt: 'White, black, and red shoe sole'
 image: /images/Sin título.png
 image_alt: Vista de Tweetable en Ruby on Rails
