@@ -1,6 +1,6 @@
 ---
 title: Proyectos San Marcos
-subtitle: Optional Project Subtitle
+subtitle: Website | Intranet | Plataforma de cursos
 date: '2019-04-30'
 thumb_image: images/2_thumb.jpg
 thumb_image_alt: An orange on a blue background
