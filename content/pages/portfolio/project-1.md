@@ -34,7 +34,13 @@ seo:
       relativeUrl: true
 layout: project
 ---
+El siguiente proyecto fue un entregable como concepto integral de aprendizaje del framework backend Ruby on Rails.
+
 Para el desarrollo de Tweetable, una aplicación con los elementos básicos de Twitter, se tuvo 3 días para crear un producto mínimo viable (MVP) en un equipo de desarrollo conformado por 3 personas. Esta versión consta de 2 entidades como Usuario y Tweet, así mismo a cada entidad se le añadió una capa de validaciones.
+
+## Conocimientos requeridos / aplicados
+
+HTML, CSS, Ruby, Ruby on Rails
 
 ## Gemas usadas
 
