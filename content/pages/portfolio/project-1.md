@@ -34,13 +34,12 @@ seo:
       relativeUrl: true
 layout: project
 ---
-Para el desarrollo de Tweetable se tuvo medio día para crear una versión más simple y modificada de Twitter. Esta versión consta de 3 entidades como Usuario, Tweet y comentario, así mismo a cada entidad se le añadió una capa de validaciones.
+Para el desarrollo de Tweetable se tuvo medio día para crear una versión más simple y modificada de Twitter. Esta versión consta de 3 entidades como Usuario, Tweet y comentario, así mismo a cada entidad se le añadió una capa de validaciones.Gemas usadas:
 
-> ## Gemas usadas:
->
-> *   [**Devise**](https://github.com/heartcombo/devise) para el registro de usuarios y control de sesiones.
->
-> *   [**Pundit**](https://github.com/varvet/pundit) para la autorización de permisos y acceso de los usuarios.
+## Gemas usadas
+
+*   [**Devise**](https://github.com/heartcombo/devise) para el registro de usuarios y control de sesiones.
+
+*   [**Pundit**](https://github.com/varvet/pundit) para la autorización de permisos y acceso de los usuarios.
 
 Puedes ver el código fuente en mi repositorio de Github: [Tweetable (Twitter clone)](https://github.com/jcvegab/tweetable-individual)
-
