@@ -71,5 +71,6 @@
             }
         ]
     },
-    "domain": "https://jcvegab.netlify.app"
+    "domain": "https://jcvegab.netlify.app",
+    "favicon": "/images/Frame 25.png"
 }
