@@ -42,8 +42,8 @@ Para el desarrollo de Tweetable, una aplicación con los elementos básicos de T
 
 *   [**Pundit**](https://github.com/varvet/pundit) para la autorización de permisos y acceso de los usuarios.
 
-*   ****[**Omniauth-Github**](https://github.com/omniauth/omniauth-github)** **para el registro mediante cuentas Github (Deshabilitado el callback).
+*   [**Omniauth-Github**](https://github.com/omniauth/omniauth-github) para el registro mediante cuentas Github (Deshabilitado el callback).
 
-*   [**Omniauth-Google**](https://github.com/zquestz/omniauth-google-oauth2)** **para el registro mediante cuentas Google (Deshabilitado el callback).
+*   [**Omniauth-Google**](https://github.com/zquestz/omniauth-google-oauth2) para el registro mediante cuentas Google (Deshabilitado el callback).
 
 Puedes ver el código fuente en mi repositorio de Github: [Tweetable (Twitter clone)](https://github.com/jcvegab/tweetable-team-project)
