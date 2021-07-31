@@ -1,7 +1,7 @@
 ---
 title: Tweetable
 subtitle: Clon de Twitter en Ruby on Rails
-date: '2019-05-01'
+date: '2020-01-13'
 thumb_image: images/1_thumb.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/1.jpg
