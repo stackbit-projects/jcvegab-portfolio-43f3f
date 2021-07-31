@@ -5,7 +5,7 @@ date: '2021-01-13'
 thumb_image: images/1_thumb.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/1.jpg
-image_alt: Frontend Tweetable
+image_alt: Vista de Tweetable
 seo:
   title: Project Title 1
   description: This is the project 1 description
