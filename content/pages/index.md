@@ -35,7 +35,7 @@ sections:
         style: button
 seo:
   title: Joseph Vega Blacido
-  description: The preview of the Exto theme
+  description: Full Stack Web Developer | React - Ruby on Rails
   extra:
     - name: 'og:type'
       value: website
